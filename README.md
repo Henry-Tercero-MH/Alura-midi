@@ -27,7 +27,7 @@ El proyecto consiste en una aplicación web interactiva que simula un teclado MI
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de mi [correo electrónico](tercerohernandezhenrymisael@gmail.com) o [perfil de GitHub](https://github.com/tuusuario).
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de mi [correo electrónico](tercerohernandezhenrymisael@gmail.com) 
 
 ---
 
