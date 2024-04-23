@@ -1,27 +1,25 @@
-## Proyecto del Curso de JavaScript para Web: Crea páginas dinámicas
+Proyecto: Teclado MIDI
+Este proyecto forma parte del curso "JavaScript para web: crea páginas dinámicas" de Alura Latam, impartido por la instructora Jeanmarie Quijada.
 
-El proyecto del curso es el Alura Midi que es un instrumento musical de interfaz digital al cual le agregaremos las funcionalidades en el transcurso del curso. 
+Descripción
+El proyecto consiste en una aplicación web interactiva que simula un teclado MIDI, permitiendo reproducir sonidos de diferentes instrumentos musicales al presionar botones en pantalla.
 
- 
-## Comenzando 🚀
-
-Este repositorio contiene varias Branch. 
-
-Cada Branch esta identificada con el nombre aula y el numero del aula correspondiente. 
-
-Ejemplo:  **aula-1**
-
-*En la rama principal (main) se encuentra el código base del proyecto para que pueda descargarlo e ir construyendo el codigo con el pasar de las aulas.*
-
-### Pre-requisitos y uso 📋
-
-Descarga el código que necesites seleccionando la Branch dentro de este repositorio y ábrelo con tu editor de código favorito. 
-
-
----
- Con :blue_heart: 
-- [Alura Latam](https://www.aluracursos.com/) 
-- [Instructora: Jeanmarie Quijada](https://github.com/JeanmarieAluraLatam) 
+Características
+Reproducción de sonidos al presionar botones.
+Estilizado visualmente para una apariencia atractiva y amigable.
+Tecnologías Utilizadas
+HTML
+CSS
+JavaScript
+Instrucciones de Uso
+Clona este repositorio en tu máquina local.
+Abre el archivo index.html en tu navegador web.
+Presiona los botones para reproducir los sonidos.
+Créditos
+Desarrollado por: [tercerohernandezhenrymisael@gmail.com]
+Instructora: Jeanmarie Quijada
+Contacto
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de mi correo electrónico o perfil de GitHub.
 
 
 
