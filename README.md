@@ -25,9 +25,6 @@ El proyecto consiste en una aplicación web interactiva que simula un teclado MI
 - Desarrollado por: [Henry Tercero]
 - Instructora: Jeanmarie Quijada ([Perfil de Alura]([https://www.alura.com.br/cursos-online-html-css](https://app.aluracursos.com/course/javascript-web-paginas-dinamicas)))
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de mi [correo electrónico](tercerohernandezhenrymisael@gmail.com) 
 
 ---
 
