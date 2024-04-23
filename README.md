@@ -3,7 +3,7 @@ Este proyecto forma parte del curso "JavaScript para web: crea páginas dinámic
 
 Descripción
 El proyecto consiste en una aplicación web interactiva que simula un teclado MIDI, permitiendo reproducir sonidos de diferentes instrumentos musicales al presionar botones en pantalla.
-
+ 
 Características
 Reproducción de sonidos al presionar botones.
 Estilizado visualmente para una apariencia atractiva y amigable.
